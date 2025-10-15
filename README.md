@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Varshith+Sagar!;Security+Researcher+%7C+Cybersecurity+Engineer;Welcome+to+my+GitHub!&center=true&size=25">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Varshith+Sagar!;Security+Researcher+%7C+Cybersecurity+Engineer;Offense-informed+Defense;Thanks+for+stopping+by!&center=true&size=25">
   </a>
 </h1>
 
@@ -27,6 +27,14 @@ Security researcher focused on vulnerability assessment, exploit reproduction, a
 
 ---
 
+<h2 align="left">💡 What I’m About</h2>
+
+- Offense-informed defense: reproduce exploits → codify detections → measure impact  
+- IDS/IPS, network forensics, and security automation with Python/Go  
+- Shipping practical tools over academic toys
+
+---
+
 <h2 align="left">💻 Tech Stack</h2>
 
 <p align="left">
@@ -46,12 +54,12 @@ Security researcher focused on vulnerability assessment, exploit reproduction, a
 
 ---
 
-<h2 align="left">📂 Notable Work</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 > 🛡️ **Intelligent Intrusion Detection System (IDS)**  
 > <a href="https://github.com/ntvs28/INTELLIGENT-INTRUSION-DETECTION-SYSTEM"><kbd> <br> Code <br> </kbd></a>  
 >
-> ML-based real-time packet capture & protocol analysis (TCP/UDP/HTTP). Benchmarked for latency, throughput, and false positives.  
+> ML-based, real-time packet capture & protocol analysis (TCP/UDP/HTTP). Benchmarked for latency, throughput, and false positives.  
 > `Network Security`, `ML`, `Scapy`, `Real-time`
 
 ---
@@ -67,7 +75,7 @@ Security researcher focused on vulnerability assessment, exploit reproduction, a
 > ⌨️ **Keylogger (Educational PoC)**  
 > <a href="https://github.com/ntvs28/Keylogging"><kbd> <br> Code <br> </kbd></a>  
 >
-> Demonstration tool used in awareness workshops to teach detection & prevention.  
+> Awareness demo used to teach detection & prevention techniques.  
 > `Security Awareness`, `Monitoring`
 
 ---
@@ -79,8 +87,17 @@ Security researcher focused on vulnerability assessment, exploit reproduction, a
 > `Risk`, `Anomaly Detection`, `Decision Support`
 
 <p align="center">
-  ...and more 🗂️ <a href="https://github.com/Varshith2802?tab=repositories">explore my projects</a>.
+  …and more 🗂️ <a href="https://github.com/Varshith2802?tab=repositories">explore my projects</a>.
 </p>
+
+---
+
+<h2 align="left">🧪 Labs & Write-ups</h2>
+
+- 🧰 **Exploit Repro** — turning CVEs into detections & mitigations  
+- 🔎 **Packet Stories** — short Wireshark/Scapy deep-dives  
+- 📓 **TTP Notes** — ATT&CK techniques with practical detection rules  
+<sub>(Publishing public write-ups soon.)</sub>
 
 ---
 
@@ -93,20 +110,18 @@ Security researcher focused on vulnerability assessment, exploit reproduction, a
 
 ---
 
-<h2 align="left">📊 GitHub at a Glance</h2>
+<h2 align="left">📚 Currently Learning</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith2802&show_icons=true" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varshith2802" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith2802&layout=compact" alt="top langs"/>
-</p>
+- Suricata rule tuning & performance profiling  
+- Go for high-performance network tooling  
+- Streamlining DFIR playbooks with automation
 
 ---
 
-<p align="center">
-  📍 Karlskrona, Sweden • ✉️ <a href="mailto:ntvsagar@gmail.com">ntvsagar@gmail.com</a> • 🤝 Open to internships & research collabs
+<h2 align="left">🤝 Let’s Connect</h2>
+
+<p>
+  📍 Karlskrona, Sweden  
+  ✉️ <a href="mailto:ntvsagar@gmail.com">ntvsagar@gmail.com</a>  
+  💼 <a href="https://www.linkedin.com/in/varshithsagar">linkedin.com/in/varshithsagar</a>
 </p>
